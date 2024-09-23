@@ -31,7 +31,7 @@ jam.innerHTML = `${hour}:${minutes}`
 // Dirubah 
 const pengirim = "adekk";
 const nomorWa = "6283144555023" // awalan nomor 0 harus di awalin 62
-const textWa = "Ah bisa aja kamuuuu"
+const textWa = "yes or no?"
 const pesan = `AKU TAU KOK NAMA KAMU, MAAF CUMA BISA BUAT BEGINI, PADA AHIRNYA ADEK JUUGA BUTUH FALIDASI DARI MASS KANNN, OTEYYY INI MAS BUAT FALIDASI TERSEBUT, WHEHHE NDAK USAH BUTUH KATA KATA BANYAK DEH, MAU NDAK ADEK JADI PACAR MASS? JUJUR YHA`;
 
 if (pengirim) {
